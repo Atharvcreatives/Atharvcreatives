@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv Gour</h1>
 <h3 align="center">An aspiring MERN stack developer</h3>
-[![An image of your badge 1](URL_1)](https://holopin.me/atharvcreatives)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvcreatives" alt="atharvcreatives" /></a> </p>
 

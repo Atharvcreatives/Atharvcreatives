@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvcreatives" alt="atharvcreatives" /></a> </p>
 
-- 🔭 I’m currently working on **Web3 Crowdfunding app**
+- 🔭 I’m currently working on **Ticketing App on Next.js**
 
-- 🌱 I’m currently learning **React Native , Solidity**
+- 🌱 I’m currently learning **Next.js , **
 
 - 👨‍💻 All of my projects are available at [https://atharv-portfolio-react.vercel.app/](https://atharv-portfolio-react.vercel.app/)
 

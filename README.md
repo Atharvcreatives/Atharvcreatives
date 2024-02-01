@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvcreatives" alt="atharvcreatives" /></a> </p>
 
-- 🔭 I’m currently working on **Custom AI chatbot using MERN**
+- 🔭 I’m currently working on **DEX (Decentralized Cryptocurrency Exchange)**
 
 - 🌱 I’m currently learning **Next.js**
 
